@@ -1,1 +1,9 @@
-{ "welcome": "Welcome!", "description": "We help you find a job abroad." }
+{
+  "welcome": "Welcome!",
+  "description": "We help you find a job abroad.",
+  "Главная": "Home",
+  "О нас": "About Us",
+  "Польша": "Poland",
+  "Германия": "Germany",
+  "Россия": "Russia"
+}
