@@ -1,1 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Quicksand:wght@300..700&display=swap');
 @import "tailwindcss";
+*{
+    box-sizing: border-box;
+    font-family: "Comfortaa", sans-serif;
+}
+body{
+    background: #E7E7E7;
+
+}
+.scrollbar-custom::-webkit-scrollbar {
+    height: 6px;
+  }
+  
+  .scrollbar-custom::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  
+  .scrollbar-custom::-webkit-scrollbar-thumb {
+    background-color: #ffffff; 
+    border-radius: 8px;
+  }
+  
+  .scrollbar-custom::-webkit-scrollbar-thumb:hover {
+    background-color: #000000;
+  }
+  

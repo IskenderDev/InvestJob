@@ -1,1 +1,53 @@
-{ "welcome": "Welcome!", "description": "We help you find a job abroad." }
+{
+  "welcome": "Welcome!",
+  "description": "We help you find a job abroad.",
+  "Главная": "Home",
+  "О нас": "About Us",
+  "Польша": "Poland",
+  "Германия": "Germany",
+  "Россия": "Russia",
+  "Открой Европу": "Discover Europe",
+  "С новой работой": "With a new job",
+  "open_europe": "Open Europe",
+  "with_new_job": "With a new job",
+  "about_us": "About us",
+  "about_heading": "We help people find jobs and build their lives in Europe.",
+  "about_text": "Our mission is to simplify the path to an international career. We work with trusted employers in different European countries and guide candidates through each stage: from job search to documentation and adaptation abroad. Our experts know what it’s like to start from scratch in another country. We believe working abroad is not just employment — it's an opportunity to grow, explore the world, and change your life.",
+  "country_pl_title": "Republic of Poland",
+  "country_pl_text": "The labor legislation of the Republic of Poland\nLabor law in Poland is primarily governed by the 1974 Labor Code. It regulates working conditions such as working hours, holidays, rest periods, wages, overtime, leave, termination, etc. Another relevant law is the Act on Non-Working Days of January 18, 1951.",
+  "more_btn": "read more",
+  "country_de_title": "Federal Republic of Germany",
+  "country_de_text": "Labor legislation in Germany\nLabor law in Germany is regulated by the Basic Law (Constitution), the Labor Code, and numerous federal laws and regulations. It covers aspects such as employment contracts, protection against dismissal, working hours, minimum wage, occupational safety, and collective agreements. Special attention is given to workers' rights, union activities, and protection of employees' personal data.",
+  "country_ru_title": "Russian Federation",
+  "country_ru_text": "Labor legislation in Russia\nLabor law in Russia is mainly regulated by the Labor Code of 1974. The Code governs working conditions such as working hours, holidays, rest periods, wages, overtime work, vacations, and dismissal, etc. Another important regulation is the Law on Non-Working Days of January 18, 1951.",
+  "vacancies": {
+    "it_specialist_title": "IT Specialist",
+    "it_specialist_desc": "installation and maintenance of equipment, user support, ensuring the operation and security of IT systems"
+  },
+  "countries": {
+    "russia": "Russia"
+  },
+  "footer": {
+    "company": "Company \"bla bla\"",
+    "description": "Its roots go back to a fragment of classical Latin from 45 BC, that is, more than two millennia ago. Richard McClintock, a Latin professor at Hampden-Sydney College.",
+    "email": "info@domain.com",
+    "phone": "+7 (123) 456-78-90",
+    "navigation": "Navigation",
+    "links": {
+      "home": "Home",
+      "about": "About Us",
+      "poland": "Poland",
+      "germany": "Germany",
+      "russia": "Russia"
+    },
+    "socials": "Social Networks"
+  },
+  "polandMain": "Republic of Poland",
+  "plMain": "Main requirements of the labor legislation of the Czech Republic",
+  "workTimeTitle": "Working Hours",
+  "workTimeDesc": "According to Polish labor law, working time is the period during which the employee is at the disposal of the employer. It must not exceed 8 hours per day and 40 hours per week. Taking into account overtime, the average weekly norm cannot exceed 48 hours over the calculation period.",
+  "workSystemTitle": "Working Time System",
+  "workSystemDesc": "According to Polish labor law, working time is the period during which the employee is at the disposal of the employer. It must not exceed 8 hours per day and 40 hours per week. Taking into account overtime, the average weekly norm cannot exceed 48 hours over the calculation period.",
+  "workAccountingTitle": "Requirement for Working Time Accounting",
+  "workAccountingDesc": "Working time accounting must record hours worked, including night shifts, overtime, and work on weekends. In a task-based accounting system, this is not required. Records are kept for 3 years (Art. 149 of the Polish Labor Code, Art. 6 of the Regulation)."
+}
