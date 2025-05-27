@@ -41,5 +41,13 @@
       "russia": "Russia"
     },
     "socials": "Social Networks"
-  }
+  },
+  "polandMain": "Republic of Poland",
+  "plMain": "Main requirements of the labor legislation of the Czech Republic",
+  "workTimeTitle": "Working Hours",
+  "workTimeDesc": "According to Polish labor law, working time is the period during which the employee is at the disposal of the employer. It must not exceed 8 hours per day and 40 hours per week. Taking into account overtime, the average weekly norm cannot exceed 48 hours over the calculation period.",
+  "workSystemTitle": "Working Time System",
+  "workSystemDesc": "According to Polish labor law, working time is the period during which the employee is at the disposal of the employer. It must not exceed 8 hours per day and 40 hours per week. Taking into account overtime, the average weekly norm cannot exceed 48 hours over the calculation period.",
+  "workAccountingTitle": "Requirement for Working Time Accounting",
+  "workAccountingDesc": "Working time accounting must record hours worked, including night shifts, overtime, and work on weekends. In a task-based accounting system, this is not required. Records are kept for 3 years (Art. 149 of the Polish Labor Code, Art. 6 of the Regulation)."
 }

@@ -23,9 +23,9 @@ export const Navbar = () => {
         {/* Desktop menu */}
         <div className="hidden sm:flex items-center gap-8">
           <Link to="/">{t("Главная")}</Link>
-          <Link to="/country/poland">{t("Польша")}</Link>
-          <Link to="/country/germany">{t("Германия")}</Link>
-          <Link to="/country/russia">{t("Россия")}</Link>
+          <Link to="/poland">{t("Польша")}</Link>
+          <Link to="/germany">{t("Германия")}</Link>
+          <Link to="/russia">{t("Россия")}</Link>
 
           <Select
             defaultValue="ru"
@@ -57,10 +57,9 @@ export const Navbar = () => {
       >
         <div className="flex flex-col gap-4 items-center pl-4">
           <Link to="/" onClick={() => setMenuOpen(false)}>{t("Главная")}</Link>
-          <Link to="/about" onClick={() => setMenuOpen(false)}>{t("О нас")}</Link>
-          <Link to="/country/poland" onClick={() => setMenuOpen(false)}>{t("Польша")}</Link>
-          <Link to="/country/germany" onClick={() => setMenuOpen(false)}>{t("Германия")}</Link>
-          <Link to="/country/russia" onClick={() => setMenuOpen(false)}>{t("Россия")}</Link>
+          <Link to="/poland" onClick={() => setMenuOpen(false)}>{t("Польша")}</Link>
+          <Link to="/germany" onClick={() => setMenuOpen(false)}>{t("Германия")}</Link>
+          <Link to="/russia" onClick={() => setMenuOpen(false)}>{t("Россия")}</Link>
           <Select
             defaultValue="ru"
             onChange={handleLanguageChange}
