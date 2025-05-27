@@ -49,5 +49,14 @@
   "workSystemTitle": "Working Time System",
   "workSystemDesc": "According to Polish labor law, working time is the period during which the employee is at the disposal of the employer. It must not exceed 8 hours per day and 40 hours per week. Taking into account overtime, the average weekly norm cannot exceed 48 hours over the calculation period.",
   "workAccountingTitle": "Requirement for Working Time Accounting",
-  "workAccountingDesc": "Working time accounting must record hours worked, including night shifts, overtime, and work on weekends. In a task-based accounting system, this is not required. Records are kept for 3 years (Art. 149 of the Polish Labor Code, Art. 6 of the Regulation)."
+  "workAccountingDesc": "Working time accounting must record hours worked, including night shifts, overtime, and work on weekends. In a task-based accounting system, this is not required. Records are kept for 3 years (Art. 149 of the Polish Labor Code, Art. 6 of the Regulation).",
+
+  "russiaMain": "Russian Federation",
+  "ruMain": "Key labor law requirements of the Russian Federation",
+  "dworkTimeTitle": "Working Hours",
+  "dworkTimeDesc": "In Russia, the standard workweek is 40 hours, with a maximum of 8 hours per day. Overtime is allowed with limitations. Work on weekends and holidays is prohibited except in certain cases and must be compensated. Time tracking is mandatory.",
+  "dworkSystemTitle": "Working Time System",
+  "dworkSystemDesc": "Russia uses different working time systems: fixed 8-hour workday, flexible schedule, shift work, part-time work, and rotational method. The choice of system is determined by the employment contract or collective agreement.",
+  "dworkAccountingTitle": "Working Time Accounting Requirements",
+  "dworkAccountingDesc": "In Russia, employers are required to keep records of employees' working hours, including start and end times, breaks, overtime, and weekend work. This is necessary to ensure compliance with labor laws and correct payroll calculation. Records must be kept for at least 5 years."
 }
